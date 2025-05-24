@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_image">back button image</string>
+    <string name="andaz_kumar">andaz kumar</string>
+    <string name="get_to_know_your_vehicles_inside_out">get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="transaction_support"><![CDATA[TRANSACTION & SUPPORT]]></string>
+</resources>

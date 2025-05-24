@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="back_button_image">back button image</string>
+    <string name="support">support</string>
+    <string name="andaz_kumar">andaz kumar</string>
+    <string name="member_since_dec_2020">member since Dec, 2020</string>
+    <string name="get_to_know_your_vehicles_inside_out">get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="transaction_support"><![CDATA[TRANSACTION & SUPPORT]]></string>
+</resources>
